@@ -65,39 +65,7 @@ export const projects: Project[] = [
     tools: ['Python', 'RFM', 'CLV', 'Outlier Treatment'],
     githubUrl: 'https://github.com/Rohit5950',
     accent: 'ochre',
-  },
-  {
-    // TODO: replace with real project details.
-    slug: 'project-placeholder-four',
-    number: '04',
-    title: 'Project title coming soon',
-    subtitle: 'A space for the next useful question',
-    summary: 'Placeholder project object — ready to be replaced without touching the layout.',
-    description: 'Use this object as a starting point for a new analysis and keep the portfolio collection easy to extend.',
-    problem: 'Replace this placeholder with the business question your next project answered.',
-    approach: 'Replace this placeholder with the process, tools, and decisions behind the work.',
-    results: ['Add a quantified result', 'Add a decision or outcome'],
-    tools: ['Tool', 'Method'],
-    githubUrl: 'https://github.com/Rohit5950',
-    accent: 'muted',
-    placeholder: true,
-  },
-  {
-    // TODO: replace with real project details.
-    slug: 'project-placeholder-five',
-    number: '05',
-    title: 'Another project in progress',
-    subtitle: 'The next chapter of the notebook',
-    summary: 'Placeholder project object — a clear marker for future portfolio work.',
-    description: 'Replace this copy with a concise description of the problem and your contribution.',
-    problem: 'Replace with the business or operational question.',
-    approach: 'Replace with your analysis workflow and reasoning.',
-    results: ['Add a measurable result', 'Add a practical recommendation'],
-    tools: ['Tool', 'Method'],
-    githubUrl: 'https://github.com/Rohit5950',
-    accent: 'muted',
-    placeholder: true,
-  },
+  }
 ];
 
 // Editable chronological journey: oldest to newest, with education, work, and projects together.
